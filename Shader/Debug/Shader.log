@@ -1,0 +1,2 @@
+﻿  Shader.cpp
+C:\Users\jdczy\source\repos\Shader\Shader\Shader.cpp(2,10): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,

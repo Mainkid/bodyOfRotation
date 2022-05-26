@@ -1,0 +1,41 @@
+﻿  Model.cpp
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(149,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(442,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(443,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(444,13): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(445,19): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(446,19): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(447,19): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(448,19): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(449,19): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(34,21): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(491,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(492,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(495,30): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(496,34): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(497,34): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(498,34): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(499,34): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(500,34): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(515,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(516,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(540,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(583,49): warning C4267: =: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(611,96): warning C4267: =: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(665,37): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(666,38): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\jdczy\source\repos\Shader\Shader\Model.cpp(851,27): warning C4244: аргумент: преобразование "_Rep" в "float", возможна потеря данных
+          with
+          [
+              _Rep=double
+          ]
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Shader.vcxproj -> C:\Users\jdczy\source\repos\Shader\x64\Debug\Shader.exe
